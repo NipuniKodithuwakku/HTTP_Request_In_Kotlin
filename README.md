@@ -6,5 +6,7 @@ In order to do that we must add following code segment into the AndroidManifest.
 <p>
  <uses-permission android:name="android.permission.INTERNET"></uses-permission>
 </p>
+After that we create this file
+
 
 
